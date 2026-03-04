@@ -52,7 +52,7 @@ Konsekuensinya, jika kita lupa membuat method yang sudah dijanjikan di interface
 
 ---
 
-3. Error yang muncul:  ![error3](Error3.png)
+3. Error yang muncul:  ![error3](error3.png)
 
 ---
 
@@ -61,8 +61,8 @@ Konsekuensinya, jika kita lupa membuat method yang sudah dijanjikan di interface
 
 ---
 
-5.  1. error yang muncul:  ![error 5.1](eror5.1.png)
-    2. error yang muncul:  ![error 5.2](eror5.2.png)
+5.  1. error yang muncul:  ![error 5.1](error5.1.png)
+    2. error yang muncul:  ![error 5.2](error5.2.png)
 
 ---
 
